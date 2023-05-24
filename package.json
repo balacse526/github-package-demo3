@@ -2,7 +2,7 @@
   "name": "@balacse526/github-package-demo3",
   "version": "1.2.0",
   "description": "",
-  "main": "src/export.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "webpack serve --mode development",
