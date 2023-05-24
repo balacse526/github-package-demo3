@@ -1,6 +1,6 @@
 {
   "name": "@balacse526/github-package-demo3",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "",
   "main": "src/export.js",
   "scripts": {
