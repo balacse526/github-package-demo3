@@ -1,8 +1,8 @@
 import React from "react"
-
+import Button from "./Components/Button/Button"
 function App() {
     return (<div>
-        <h2>Welcome to React App</h2>
+        <Button onClick={() => (alert('Save Button Clicked'))}>Reset Button</Button>
     </div>)
 }
 
