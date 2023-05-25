@@ -1,6 +1,6 @@
 {
   "name": "@balacse526/github-package-demo3",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "",
   "main": "dist/index.bundle.js",
   "scripts": {
